@@ -1,5 +1,27 @@
 main:
 
+  - title: "Energy-Aware Latent Allocation with Asymmetric Hyperprior for Ultra-Lightweight SAR Compression"
+    authors: <strong>Z. Button</strong>, et al.
+    conference_short: 
+    conference:
+    pdf: 
+    code: 
+    page: 
+    bibtex: 
+    notes: In Preparation
+    image: ./assets/img/AHT_architecture_teaser.png
+
+  - title: "Accelerating Learned SAR Image Compression via Selective Channel-Group Encoding Bypass"
+    authors: <strong>Z. Button</strong>, et al.
+    conference_short:
+    conference:
+    pdf: 
+    code: 
+    page: 
+    bibtex: 
+    notes: Under Review
+    image: ./assets/img/mean_entropy_by_channel.png
+
   - title: "Cross-Modal Thermal Image Compression via RGB Side Information"
     authors: S. Maharjan, R. S. Puttagunta, <strong>Z. Button</strong>, and Z. Li
     conference_short: MMSP

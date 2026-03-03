@@ -1,7 +1,9 @@
 # Basic Information 
 title: Zach Button
-position: Ph.D. Student
+position: Ph.D. Student (Exp. 2027)
 affiliation: University of Missouri - Kansas City
+affiliation_short: UMKC
+affiliation_link: https://sse.umkc.edu/index.html
 email: zb7df@umsystem.edu
 
 # Search Engine Optimization (SEO)
@@ -12,10 +14,10 @@ canonical: https://zb-umkc.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
+linkedin: https://www.linkedin.com/in/zach-button
+github_link: https://github.com/zb-umkc
 google_scholar: https://scholar.google.com/citations?user=Dh_DOecAAAAJ&hl=en&oi=ao
 cv_link: assets/files/CV.pdf
-github_link: https://github.com/zb-umkc
-linkedin: https://www.linkedin.com/in/zach-button
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
