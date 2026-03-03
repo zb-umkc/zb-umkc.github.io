@@ -38,9 +38,9 @@ I am a data scientist and applied ML researcher at the University of Missouri-Ka
 - **University of Missouri - Kansas City**
     - GRA - Missouri Institute for Defense & Energy (2026 - Present)
 - **Kansas State University**
-    - Data Science Workshop Series (2020 - 2022)
-    - MLAS Instructor (2020 - 2022)
-    - MLAS Advisory Board (2022)
+    - Workshop Presenter - Data Analytics Program (2020 - 2022)
+    - Instructor - MLAS Program (2020 - 2022)
+    - Advisory Board Member - MLAS Program (2022)
     - Consultant - Statistical Consulting Lab (2014 - 2015)
     - GTA - Dept. of Statistics (2013 - 2015)
 - **University of Pittsburgh**
