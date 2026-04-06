@@ -1,6 +1,6 @@
 main:
 
-  - title: "Energy-Aware Latent Allocation with Asymmetric Hyperprior for Ultra-Lightweight SAR Compression"
+  - title: "SAR-PACT: Energy-Aware Complexity Allocation for Practical SAR Compression"
     authors: <strong>Z. Button</strong>, et al.
     conference_short: 
     conference:
