@@ -18,7 +18,14 @@ main:
     pdf: 
     code: 
     page: 
-    bibtex: 
+    bibtex: @inproceedings{Button2026,
+       author = {Zach Button and Paras Maharjan and Zhu Li},
+       doi = ,
+       booktitle = {IEEE International Conference on Image Processing},
+       month = {9},
+       title = {Accelerating Learned SAR Image Compression via Selective Channel-Group Encoding Bypass},
+       year = {2026}
+    }
     notes: Accepted
     image: ./assets/img/mean_entropy_by_channel.png
 
