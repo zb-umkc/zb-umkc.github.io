@@ -26,9 +26,9 @@ main:
     authors: S. Maharjan, R. S. Puttagunta, <strong>Z. Button</strong>, and Z. Li
     conference_short: MMSP
     conference: IEEE 27th International Workshop on Multimedia Signal Processing <strong>(MMSP)</strong>, 2025.
-    pdf: ./assets/files/Maharjan2026_Thermal.pdf
+    pdf: ./assets/files/Maharjan2025_Thermal.pdf
     code: 
     page: 
-    bibtex: ./assets/files/Maharjan2026_Thermal.bib
+    bibtex: ./assets/files/Maharjan2025_Thermal.bib
     notes: Oral Presentation
     image: ./assets/img/MMSP_crossmodal_rgb_thermal_teaser.png
