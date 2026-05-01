@@ -9,7 +9,7 @@ main:
     page: 
     bibtex: 
     notes: Invited Talk
-    image: ./assets/img/AHT_architecture_teaser.png
+    image: ./assets/img/dct_channel_energy_nga.png
 
   - title: "Accelerating Learned SAR Image Compression via Selective Channel-Group Encoding Bypass"
     authors: <strong>Z. Button</strong>, et al.
