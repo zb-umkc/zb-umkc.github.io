@@ -1,25 +1,25 @@
 main:
 
-  - title: "SAR-PACT: Energy-Aware Complexity Allocation for Practical SAR Compression"
+  - title: "SAR-PACT: Tokenization Energy-Aware Complexity Allocation for Practical Learned SAR Image Compression"
     authors: <strong>Z. Button</strong>, et al.
-    conference_short: 
-    conference:
+    conference_short: Asilomar
+    conference: 60th Annual Asilomar Conference on Signals, Systems, and Computers, 2026.
     pdf: 
     code: 
     page: 
     bibtex: 
-    notes: In Preparation
+    notes: Invited Talk
     image: ./assets/img/AHT_architecture_teaser.png
 
   - title: "Accelerating Learned SAR Image Compression via Selective Channel-Group Encoding Bypass"
     authors: <strong>Z. Button</strong>, et al.
-    conference_short:
-    conference:
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2026.
     pdf: 
     code: 
     page: 
     bibtex: 
-    notes: Under Review
+    notes: Accepted
     image: ./assets/img/mean_entropy_by_channel.png
 
   - title: "Cross-Modal Thermal Image Compression via RGB Side Information"
