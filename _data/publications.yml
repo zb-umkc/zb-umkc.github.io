@@ -9,7 +9,7 @@ main:
     page: 
     bibtex: 
     notes: Invited Talk
-    image: ./assets/img/dct_channel_energy_nga.png
+    image: ./assets/img/dct_channel_energy_PACT.png
 
   - title: "Accelerating Learned SAR Image Compression via Selective Channel-Group Encoding Bypass"
     authors: <strong>Z. Button</strong>, et al.
@@ -26,9 +26,9 @@ main:
     authors: S. Maharjan, R. S. Puttagunta, <strong>Z. Button</strong>, and Z. Li
     conference_short: MMSP
     conference: IEEE 27th International Workshop on Multimedia Signal Processing <strong>(MMSP)</strong>, 2025.
-    pdf: 
+    pdf: ./assets/files/Maharjan2026_Thermal.pdf
     code: 
     page: 
-    bibtex: 
+    bibtex: ./assets/files/Maharjan2026_Thermal.bib
     notes: Oral Presentation
     image: ./assets/img/MMSP_crossmodal_rgb_thermal_teaser.png
