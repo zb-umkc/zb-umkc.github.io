@@ -23,6 +23,8 @@ I am a data scientist and applied ML researcher at the University of Missouri-Ka
 {% include_relative _includes/services.md %}
 
 ## Work Experience
+- **Ad Astra** (May 2026 - Present)
+    - Senior Machine Learning Engineer
 - **Jumio** (May 2025 - Feb 2026)
     - Research Engineer
 - **HP, Inc.** (Feb 2022 - Feb 2025)
